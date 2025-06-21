@@ -56,7 +56,7 @@ For local development:
 1. Clone or download this repository
 2. Open `index.html` in your browser
 
-Or, Simply visit the live demo: 👉 [Here](https://ihefty.github.io/Luv2Draw/)
+Or, Simply visit the live demo: 👉 [Here](https://ihefty.github.io/img2pdf/)
 
 ## License
 
