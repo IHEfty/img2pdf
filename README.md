@@ -56,13 +56,11 @@ For local development:
 1. Clone or download this repository
 2. Open `index.html` in your browser
 
+Or, Simply visit the live demo: 👉 [Here](https://ihefty.github.io/Luv2Draw/)
+
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+MIT License - feel free to use and modify
 
 ## Support
 
