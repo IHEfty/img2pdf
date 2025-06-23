@@ -1,6 +1,18 @@
 # Image to PDF Converter
 
-![Project Screenshot](https://via.placeholder.com/800x500?text=Image+to+PDF+Converter+Screenshot)
+<table>
+      <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./prev/preview.mp4">
+        <img src="./prev/preview.gif" alt="Preview 00" width="450" />
+      </a>
+    </td>
+  </tr>
+
+</table>
 
 A lightweight, client-side web application that converts multiple images into a single PDF document with customizable settings.
 
